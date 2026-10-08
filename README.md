@@ -9,7 +9,7 @@ Software engineer at **GrupoSTI**, building web applications and the cloud infra
 
 ## Tech stack
 
-- **Languages:** JavaScript · TypeScript, Python
+- **Languages:** JavaScript · TypeScript · Python
 - **Backend:** Node.js · Express · NestJs
 - **Cloud & DevOps:** AWS · Kubernetes · GitHub Actions · Terraform
 
