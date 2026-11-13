@@ -13,6 +13,10 @@ Software engineer at **GrupoSTI**, building web applications and the cloud infra
 - **Backend:** Node.js · Express · NestJS
 - **Cloud & DevOps:** AWS · Kubernetes · GitHub Actions · Terraform
 
+## Currently learning
+
+- **Rust:** structs, traits, `Option`/`Result` and some embedded work on the Raspberry Pi Pico
+
 ## GitHub stats
 
 <p>
