@@ -10,14 +10,14 @@ Software engineer at **GrupoSTI**, building web applications and the cloud infra
 ## Tech stack
 
 - **Languages:** JavaScript · TypeScript · Python
-- **Backend:** Node.js · Express · NestJs
+- **Backend:** Node.js · Express · NestJS
 - **Cloud & DevOps:** AWS · Kubernetes · GitHub Actions · Terraform
 
 ## GitHub stats
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=henrycontal&show_icons=true&hide_border=true&hide_title=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycontal&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henrycontal&theme=default" alt="GitHub stats" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henrycontal&theme=default" alt="Top languages" />
 </p>
 
 ## Contact
